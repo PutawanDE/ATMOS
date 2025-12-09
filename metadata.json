@@ -1,0 +1,7 @@
+{
+  "name": "ATMOS Dashboard",
+  "description": "A high-contrast, brutalist-style air quality dashboard using Open-Meteo for real-time data.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
